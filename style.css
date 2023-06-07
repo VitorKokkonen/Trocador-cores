@@ -18,7 +18,9 @@ body {
     border-radius: 15px;
 }
 
-
+.principal span{
+    color: #11009E;
+}
 
 .botao{
     font-size: 20px;
